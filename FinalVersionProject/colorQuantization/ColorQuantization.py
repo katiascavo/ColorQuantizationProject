@@ -57,7 +57,6 @@ pixel1 = reshape(test,(img.shape[0]*img.shape[1],3))
 id = 0
 cluster = 0
 
-#mischio gli elementi nella lista in modo da mescolare le classi, in "pixel" sono ordinati, in qnt anche
 fullList = list()
 
 for j in pixel:
